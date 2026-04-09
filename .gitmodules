@@ -1,3 +1,6 @@
 [submodule "Basic-Linux"]
 	path = Basic-Linux
 	url = git@github.com:Honaco/Basic-Linux.git
+[submodule "Linux-Network"]
+	path = Linux-Network
+	url = git@github.com:Honaco/Linux-Network.git
