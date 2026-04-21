@@ -13,3 +13,6 @@
 [submodule "SimpleDocker"]
 	path = SimpleDocker
 	url = git@github.com:Honaco/SimpleDocker.git
+[submodule "CICD"]
+	path = CICD
+	url = git@github.com:Honaco/CICD.git
