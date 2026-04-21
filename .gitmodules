@@ -7,3 +7,6 @@
 [submodule "LinuxMonitoring-v1.0"]
 	path = LinuxMonitoring-v1.0
 	url = git@github.com:Honaco/LinuxMonitoring-v1.0.git
+[submodule "LinuxMonitoring-v2.0"]
+	path = LinuxMonitoring-v2.0
+	url = git@github.com:Honaco/LinuxMonitoring-v2.0.git
