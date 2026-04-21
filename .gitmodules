@@ -4,3 +4,6 @@
 [submodule "Linux-Network"]
 	path = Linux-Network
 	url = git@github.com:Honaco/Linux-Network.git
+[submodule "LinuxMonitoring-v1.0"]
+	path = LinuxMonitoring-v1.0
+	url = git@github.com:Honaco/LinuxMonitoring-v1.0.git
