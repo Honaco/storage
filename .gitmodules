@@ -10,3 +10,6 @@
 [submodule "LinuxMonitoring-v2.0"]
 	path = LinuxMonitoring-v2.0
 	url = git@github.com:Honaco/LinuxMonitoring-v2.0.git
+[submodule "SimpleDocker"]
+	path = SimpleDocker
+	url = git@github.com:Honaco/SimpleDocker.git
