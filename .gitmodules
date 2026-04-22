@@ -16,3 +16,6 @@
 [submodule "CICD"]
 	path = CICD
 	url = git@github.com:Honaco/CICD.git
+[submodule "Cisco-PT"]
+	path = Cisco-PT
+	url = git@github.com:Honaco/Cisco-PT.git
